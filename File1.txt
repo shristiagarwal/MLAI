@@ -1,8 +1,9 @@
 hello people!!!!!!!!!!!
 This is Git..!!!!!!!!Welcome.....!!!!!!!!!!!
 
-change1
+change --> 1
 
-change2
+change --> 2
 
-cahnge3
+cahnge --> 3
+
